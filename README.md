@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=GOWTHAMRAJ%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real-world+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Working+with+Data+%26+Machine+Learning;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real-world+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Working+with+Data+%26+Machine+Learning;Turning+ideas+into+real+projects" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/1U24IT037-GOWTHAMRAJK">
+<a href="https://github.com/GOWTHAMRAJ-DK">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -34,6 +34,7 @@
 name: Gowthamraj K
 education: B.Sc. Information Technology
 role: Aspiring Data Analyst
+
 focus:
   - Data Analytics
   - Machine Learning
@@ -60,51 +61,44 @@ My goal is to turn real-world problems into useful, data-driven solutions.
 
 ## 🛠️ Tech Stack
 
-### Programming & Query Languages
+### 💻 Programming & Query Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,html,css"/>
 </p>
 
-### Data Analytics & Machine Learning
+### 📊 Data Analytics & Machine Learning
 
 <p>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
 </p>
 
-### Generative AI & NLP
+### 🤖 Generative AI & NLP
 
 <p>
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Sentence%20Transformers-412991?style=for-the-badge"/>
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 </p>
 
 ---
@@ -129,7 +123,7 @@ Real-World Projects
 Professional Growth
 ```
 
-### Currently Exploring
+### 🔍 Currently Exploring
 
 * 📊 Data Analysis with Python
 * 🗄️ SQL & Database Management
@@ -144,10 +138,9 @@ Professional Growth
 
 ### 🏥 01 — Health Insurance Premium Prediction System
 
-A Machine Learning project that predicts health insurance charges using factors such as age, BMI, smoking status, number of children, gender, and region.
+A Machine Learning project that predicts health insurance charges using factors such as **age, BMI, smoking status, number of children, gender, and region**.
 
 **Tech Stack:**
-
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
 ---
@@ -157,17 +150,15 @@ A Machine Learning project that predicts health insurance charges using factors 
 A Natural Language Processing project that analyzes restaurant reviews and identifies the sentiment expressed in customer feedback.
 
 **Tech Stack:**
-
 `Python` `NLP` `Transformers` `Hugging Face` `Machine Learning`
 
 ---
 
 ### 🏦 03 — Bank Customer Churn Prediction
 
-A Machine Learning project designed to analyze customer information and predict whether a bank customer is likely to leave the organization.
+A Machine Learning project that analyzes customer information and predicts whether a bank customer is likely to leave the organization.
 
 **Tech Stack:**
-
 `Python` `Pandas` `Scikit-learn` `Matplotlib` `Machine Learning`
 
 ---
@@ -177,17 +168,15 @@ A Machine Learning project designed to analyze customer information and predict 
 A Generative AI project that combines document retrieval and language models to provide answers based on a relevant knowledge base.
 
 **Tech Stack:**
-
 `Python` `LangChain` `ChromaDB` `Hugging Face` `Sentence Transformers`
 
 ---
 
 ### 📈 05 — GenAI-Driven Stock Sentiment Analysis
 
-A project that analyzes financial news and uses sentiment analysis to understand market-related news and generate useful summaries.
+A project that analyzes financial news using sentiment analysis and Generative AI to understand market-related information and generate useful summaries.
 
 **Tech Stack:**
-
 `Python` `NLP` `Generative AI` `Transformers` `Machine Learning`
 
 ---
@@ -197,7 +186,6 @@ A project that analyzes financial news and uses sentiment analysis to understand
 A Deep Learning project focused on detecting COVID-19-related patterns from chest X-ray images using image classification techniques.
 
 **Tech Stack:**
-
 `Python` `TensorFlow` `Keras` `Deep Learning` `Image Classification`
 
 ---
@@ -234,14 +222,14 @@ goal:
 ## 📚 Skills
 
 ```text
-Python          ████████████████████
-SQL             ██████████████████
-Data Analytics  █████████████████
-Machine Learning████████████████
-Generative AI   ███████████████
-NLP             ███████████████
-Java            ████████████
-HTML / CSS      ████████████
+Python           ████████████████████
+SQL              ██████████████████
+Data Analytics   █████████████████
+Machine Learning ████████████████
+Generative AI    ███████████████
+NLP              ███████████████
+Java             ████████████
+HTML / CSS       ████████████
 ```
 
 ---
@@ -250,7 +238,7 @@ HTML / CSS      ████████████
 
 <div align="center">
 
-<a href="https://github.com/1U24IT037-GOWTHAMRAJK">
+<a href="https://github.com/GOWTHAMRAJ-DK">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -268,11 +256,11 @@ HTML / CSS      ████████████
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1U24IT037-GOWTHAMRAJK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=GOWTHAMRAJ-DK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1U24IT037-GOWTHAMRAJK&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GOWTHAMRAJ-DK&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -282,7 +270,7 @@ HTML / CSS      ████████████
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1U24IT037-GOWTHAMRAJK&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOWTHAMRAJ-DK&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -300,7 +288,7 @@ HTML / CSS      ████████████
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/1U24IT037-GOWTHAMRAJK">
+<a href="https://github.com/GOWTHAMRAJ-DK">
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -319,4 +307,3 @@ HTML / CSS      ████████████
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
-
