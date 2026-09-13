@@ -46,66 +46,47 @@ I enjoy working with data, exploring new technologies, and building practical so
 <p>
 <img src="https://skillicons.dev/icons?i=python,html,css"/>
 </p>
-
+<br>
 ## 🗄️ Database & Query Language
 
 <p>
-
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
+<br>
 
 ## 📊 Data Analytics & Machine Learning
 
 <p>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Seaborn-0F9D58?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
 </p>
+<br>
 
 ## 🤖 Generative AI & NLP
-
 <p>
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Sentence%20Transformers-412991?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Word2Vec-4285F4?style=for-the-badge"/>
-
 </p>
-
+<br>
+ 
 ## 🔧 Tools & Platforms
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=vscode,github"/>
-
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 </p>
+<br>
 
 ---
 
