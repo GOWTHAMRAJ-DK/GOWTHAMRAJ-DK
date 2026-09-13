@@ -31,7 +31,7 @@
 
 # 👨‍💻 About Me
 
-Hello! I'm **Gowthamraj K**, a **B.Sc. Information Technology student** with a strong interest in **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**.
+Hello! I'm **Gowthamraj K**, I'm  **B.Sc. Information Technology student** with a strong interest in **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**.
 
 I enjoy working with data, exploring new technologies, and building practical solutions to real-world problems.
 
