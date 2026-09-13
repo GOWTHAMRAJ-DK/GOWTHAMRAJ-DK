@@ -223,22 +223,7 @@ To strengthen my technical skills, build meaningful projects, solve real-world p
 ---
 
 # 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GOWTHAMRAJ-DK&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOWTHAMRAJ-DK&theme=github_dark" alt="GitHub Stats" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOWTHAMRAJ-DK&theme=github_dark" alt="Most Used Languages" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOWTHAMRAJ-DK&theme=github_dark" alt="Profile Details"/>
-
-</div>
-
+<div align="center"> <table> <tr> <td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOWTHAMRAJ-DK&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/> </td> </tr> <tr> <td align="center" width="50%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOWTHAMRAJ-DK&theme=github_dark" alt="GitHub Stats" width="100%"/> </td> <td align="center" width="50%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOWTHAMRAJ-DK&theme=github_dark" alt="Most Used Languages" width="100%"/> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOWTHAMRAJ-DK&theme=github_dark" alt="Profile Details" width="100%"/> </td> </tr> </table> </div>
 ---
 
 # 🤝 Connect With Me
