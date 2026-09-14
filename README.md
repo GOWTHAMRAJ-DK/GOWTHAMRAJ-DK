@@ -10,8 +10,7 @@
 <img src="https://img.shields.io/badge/FOCUS-Data%20Analytics%20%7C%20AI%20%7C%20ML-7C3AED?style=for-the-badge"/>
 <br/>
 <img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
-
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/k-gowthamraj/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
